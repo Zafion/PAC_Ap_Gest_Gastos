@@ -14,7 +14,7 @@ Las instrucciones en detalle del ejercicio se pueden consultar en el archívo 1s
 ## Tecnologías usadas:
 
 [![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor==101010)]()
 
 </br>
 
