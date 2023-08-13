@@ -1,13 +1,13 @@
 # [![PAC_Ap_Gest_Gastos](https://github.com/Zafion/PAC_Ap_Gest_Gastos/blob/main/recursos/java_36.png)](https://github.com/Zafion/PAC_Ap_Gest_Gastos) Aplicación de Gestión de Gastos Personales
 
-Desarrollado con Java usando el IDE Eclipse.
+Desarrollada con Java utilizando el IDE Eclipse.
 
-Trabajo de desarrollo realizado durante la formación del segundo semestre del Ciclo Superior De Desarrollo De Aplicaciones Multiplataforma.
+Trabajo de desarrollo realizado durante el segundo semestre del Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma.
 Corresponde a la asignatura de Programación.
 
-La práctica consiste en crear una aplicación de gestión de gastos personales. A través de un menú interactivo por la consola, introducir ingresos y gastos para así poder llevar un pequeño control de nuestra economía.
+La práctica consiste en crear una aplicación de gestión de gastos personales. A través de un menú interactivo por la consola, se pueden introducir ingresos y gastos para llevar un pequeño control de nuestra economía.
 
-Las instrucciones en detalle del ejercicio se pueden consultar en el archívo 1s2223_PAC_DESARROLLO_M03.pdf
+Las instrucciones detalladas del ejercicio se pueden consultar en el archivo: https://github.com/Zafion/PAC_Ap_Gest_Gastos/blob/main/1s2223_PAC_DESARROLLO_M03.pdf
 
 </br>
 
